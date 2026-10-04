@@ -1,0 +1,29 @@
+{
+  "project": "Algorithm Performance Measurement and Benchmarking Tool",
+  "student": "Kushagra Verma",
+  "course": "BCA (AI & Data Science)",
+  "files": [
+    ".gitignore",
+    "Lab2_Report.docx",
+    "Lab2_Report.pdf",
+    "README.md",
+    "app.py",
+    "benchmark_engine.py",
+    "code_benchmark.py",
+    "data/benchmark_results.csv",
+    "graphs/benchmark_dashboard.png",
+    "graphs/factorial_execution_time.png",
+    "graphs/factorial_memory.png",
+    "graphs/loop_execution_time.png",
+    "graphs/loop_memory.png",
+    "graphs/search_execution_time.png",
+    "graphs/search_memory.png",
+    "project_notebook.ipynb",
+    "requirements.txt",
+    "screenshots/01_benchmark_results.png",
+    "screenshots/02_complexity_table.png",
+    "screenshots/03_app_output.png",
+    "search_analysis.py"
+  ],
+  "benchmark_note": "Nested Loop n=10000 and n=50000 are retained as requested sizes but skipped because they require 100 million and 2.5 billion inner iterations respectively."
+}
