@@ -1,0 +1,5 @@
+Benchmark method: time.perf_counter and tracemalloc; median of 5 runs per case.
+Python: 3.13.5
+Platform: Linux-6.18.55-x86_64-with-glibc2.41
+Input sizes: 100, 500, 1000, 2500, 5000. Timings and memory are environment-dependent.
+Peak memory means peak traced Python allocations, not total process RAM.
