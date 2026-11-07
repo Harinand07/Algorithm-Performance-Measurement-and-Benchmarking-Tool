@@ -1,0 +1,6 @@
+Validation performed during package generation:
+- LCS sample: PASS (length 4; reconstructed subsequence length 4)
+- 0/1 Knapsack sample: PASS (maximum profit 7)
+- Matrix Chain sample: PASS (minimum cost 4500)
+
+Note: The automatic `python -m unittest` subprocess could not start in the document-generation environment because of an unrelated Python startup hook failure. The test_algorithms.py file is included so the tests can be run locally with `python -m unittest -v`.
