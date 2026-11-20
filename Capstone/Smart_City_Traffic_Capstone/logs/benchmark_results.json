@@ -1,0 +1,26 @@
+{
+  "small_8_nodes": {
+    "vertices": 8,
+    "edges": 14,
+    "mean_runtime_ms": {
+      "Dijkstra": 0.0073,
+      "Bellman-Ford": 0.0143,
+      "BFS": 0.002,
+      "DFS": 0.002,
+      "Prim": 0.012,
+      "Kruskal": 0.0103
+    }
+  },
+  "large_100_nodes": {
+    "vertices": 100,
+    "edges": 250,
+    "mean_runtime_ms": {
+      "Dijkstra": 0.2809,
+      "Bellman-Ford": 0.5167,
+      "BFS": 0.0267,
+      "DFS": 0.0573,
+      "Prim": 0.189,
+      "Kruskal": 0.2401
+    }
+  }
+}

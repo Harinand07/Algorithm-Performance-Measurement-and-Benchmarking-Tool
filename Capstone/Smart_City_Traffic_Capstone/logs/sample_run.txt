@@ -1,0 +1,6 @@
+Shortest path Central -> Airport: Central -> University -> Hospital -> Airport (cost 15.0)
+After congestion: Central -> Market -> Stadium -> Airport (cost 16.0)
+BFS: ['Central', 'Museum', 'University', 'Market', 'Hospital', 'Tech Park', 'Stadium', 'Airport']
+DFS: ['Central', 'Museum', 'University', 'Hospital', 'Airport', 'Stadium', 'Market', 'Tech Park']
+Prim MST cost: 27.0; Kruskal MST cost: 27.0
+Bellman-Ford negative cycle: False

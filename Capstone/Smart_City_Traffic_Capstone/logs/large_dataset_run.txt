@@ -1,0 +1,7 @@
+Expanded dataset: 100 intersections, 250 roads
+Source: Junction-01-01; destination: Junction-10-10
+Normal route cost: 28.0
+Congestion-aware route cost: 38.0
+Reachable nodes from source: 100
+Prim MST total cost: 506.0
+Kruskal MST total cost: 506.0
